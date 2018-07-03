@@ -34,6 +34,14 @@
  - 项目描述：基于MapGIS平台，对渝西管网数据入库管理，搭建信息化管理系统，供企业用户对管网数据进行检索、浏览、分析。同时该系统对企业日常工作流程高度信息化，企业用户日常办公、考勤、审批、外业巡检等业务全部通过该信息系统进行管理。
  - 关键技术：采用ASP.NET MVC搭建web服务系统，数据库为SQL Server，Android版外业巡检App。其他技术包括JavaScript、Openlayers、ExjJS、highcharts、MapGIS Server……
 
+## 大学课程
+
+### 本科成绩单
+![本科成绩单](certificates/本科成绩单.jpg)
+
+### 研究生成绩单
+![研究生成绩单](certificates/研究生成绩单.jpg)
+
 ## 证书情况
 
 ### 全国计算机等级考试三级
