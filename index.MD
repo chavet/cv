@@ -1,4 +1,4 @@
- **如需更进一步了解，请访问电子简历**：[http://cv.liuqichen.com/](http://cv.liuqichen.com/)
+ **如需更进一步了解，请访问我的电子简历**：[http://cv.liuqichen.com/](http://cv.liuqichen.com/)
 
 # 联系方式
  - 手机：15927169027
@@ -25,7 +25,7 @@
 3|熟悉深度学习原理和基本模型，熟练使用 Caffe ，Tensorflow 或其他常用深度学习工具，并能够灵活的解决实际问题|完成深度学习微专业课程，课程中利用TensorFlow来解决实际问题|80%
 4|熟悉计算机视觉和图像处理的常用方法 ( 物体检测、跟踪、分割、分类识别等 )|大学课程学习了计算机视觉和图像处理相关课程|90%
 5|有很强的工程能力，精通 C++ 语言以及至少另一种常见编程语言|有很强的工程能力，负责并参与了数十个系统工程项目，精通c++语言，熟悉java、python、javascript等常见编程语言|100%
-6|对计算机架构有深刻的认识，能够开发高性能、实时运行的图像处理软件|对计算机架构有基本认识，参与开发多光谱影像三维显示、遥感影像信息提取、基于CPU+GPU并行计算的影像分割软件等|90%
+6|对计算机架构有深刻的认识，能够开发高性能、实时运行的图像处理软件|对计算机架构有基本认识，参与开发多光谱影像三维显示、遥感影像信息提取、基于CPU+GPU并行计算的影像分割等图像处理软件|90%
 7|熟悉图像识别领域的常见工具如 OpenCV 等和高性能运算加速工具如 Neon 以及GPGPU 技术如 GLES， CUDA 和OpenCL 等将会优先考虑|了解OpenCV，参与利用CUDA开发基于CPU+GPU并行计算的遥感影像分割软件|70%  
 
 ----
@@ -59,7 +59,19 @@
 8|排水信息化管理系统|2014/05 ~ 2015/12<br>基于MapGIS平台，对渝西管网数据入库管理，搭建信息化管理系统，供企业用户对管网数据进行检索、浏览、分析。同时该系统对企业日常工作流程高度信息化，企业用户日常办公、考勤、审批、外业巡检等业务全部通过该信息系统进行管理。|采用ASP.NET MVC搭建web服务系统，数据库为SQL Server，Android版外业巡检App。其他技术包括JavaScript、Openlayers、ExjJS、highcharts、MapGIS Server……
 
 ---
-# 人工智能相关学习经历
+# 技术栈
+
+类别|技术
+---- | ---- 
+编程语言|C/C++/C#, Java, JavaScript, Python, Matlab, PHP, R
+数据库|PostgreSQL, Oracle, MySQL, SQL Server
+Python工具|TensorFlow, numpy, cv2, matplotlib, basemap ……
+JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS, CasperJS, OpenLayers, Leaflet
+Linux系统|Ubuntu, Fedora, CentOS
+开源软件/库|QGIS, GeoServer, MapServer, Qt, GDAL/OGR, CxImage, OpenCV, OpenGL
+
+---
+# 图像算法相关学习经历
 
 ## Machine Learning
 &emsp;&emsp;机器学习是一门研究在非特定编程条件下让计算机采取行动的学科。最近二十年，机器学习为我们带来了自动驾驶汽车、实用的语音识别、高效的网络搜索，让我们对人类基因的解读能力大大提高。当今机器学习技术已经非常普遍，您很可能在毫无察觉情况下每天使用几十次。许多研究者还认为机器学习是人工智能（AI）取得进展的最有效途径。在本课程中，您将学习最高效的机器学习技术，了解如何使用这些技术，并自己动手实践这些技术。更重要的是，您将不仅将学习理论知识，还将学习如何实践，如何快速使用强大的技术来解决新问题。最后，您将了解在硅谷企业如何在机器学习和AI领域进行创新。
@@ -81,21 +93,12 @@
  - Sequence Models
  
 ## 大学相关课程
-&emsp;&emsp;机器学习是一门研究在非特定编程条件下让计算机采取行动的学科。最近二十年，机器学习为我们带来了自动驾驶汽车、实用的语音识别、高效的网络搜索，让我们对人类基因的解读能力大大提高。当今机器学习技术已经非常普遍，您很可能在毫无察觉情况下每天使用几十次。许多研究者还认为机器学习是人工智能（AI）取得进展的最有效途径。在本课程中，您将学习最高效的机器学习技术，了解如何使用这些技术，并自己动手实践这些技术。更重要的是，您将不仅将学习理论知识，还将学习如何实践，如何快速使用强大的技术来解决新问题。最后，您将了解在硅谷企业如何在机器学习和AI领域进行创新。
- - 遥感图像处理软件
- - 目标检测算法
 
----
-# 技术栈
-
-类别|技术
+类别|课程
 ---- | ---- 
-编程语言|C/C++/C#, Java, JavaScript, Python, Matlab, PHP, R
-数据库|PostgreSQL, Oracle, MySQL, SQL Server
-Python工具|TensorFlow, numpy, cv2, matplotlib, basemap ……
-JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS, CasperJS, OpenLayers, Leaflet
-Linux系统|Ubuntu, Fedora, CentOS
-开源软件/库|QGIS, GeoServer, MapServer, Qt, GDAL/OGR, OpenCV, OpenGL
+基础类|高等数学、高等代数、离散数学、矩阵理论
+计算机类|计算机导论、计算机高级语言程序设计（C）、面向对象程序设计（C++）、软件工程概论、计算机结构与组成、数据结构与算法、数据库概论、Visual C++程序设计
+图像处理类|遥感概论、遥感图像解译、遥感图像处理、遥感应用模型、数字摄影测量、摄影测量原理、图像处理与分析
 
 ---
 # 教育经历
