@@ -1,4 +1,4 @@
- **如需更进一步了解，请访问我的电子简历**：[http://cv.liuqichen.com/](http://cv.liuqichen.com/)
+ 如需更进一步了解，请访问**刘辰**的电子简历：[http://cv.liuqichen.com/](http://cv.liuqichen.com/)
 
 # 联系方式
  - 手机：15927169027
@@ -85,19 +85,19 @@ Linux系统|Ubuntu, Fedora, CentOS
  - ex8 Anomaly Detection and Recommender Systems
 
 ## Deep Learning
-&emsp;&emsp;机器学习是一门研究在非特定编程条件下让计算机采取行动的学科。最近二十年，机器学习为我们带来了自动驾驶汽车、实用的语音识别、高效的网络搜索，让我们对人类基因的解读能力大大提高。当今机器学习技术已经非常普遍，您很可能在毫无察觉情况下每天使用几十次。许多研究者还认为机器学习是人工智能（AI）取得进展的最有效途径。在本课程中，您将学习最高效的机器学习技术，了解如何使用这些技术，并自己动手实践这些技术。更重要的是，您将不仅将学习理论知识，还将学习如何实践，如何快速使用强大的技术来解决新问题。最后，您将了解在硅谷企业如何在机器学习和AI领域进行创新。
+&emsp;&emsp;由 deeplearning.ai 出品，网易引进的正版授权中文版深度学习工程师微专业课程，让你在了解丰富的人工智能应用案例的同时，学会在实践中搭建出最先进的神经网络模型，训练出属于你自己的 AI。
  - Neural Networks and Deep Learning 
  - Improving Deep Neural Networks
  - Structuring Machine Learning Projects
  - Convolutional Neural Networks
  - Sequence Models
  
-## 大学相关课程
+## [大学相关课程](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B)
 
 类别|课程
 ---- | ---- 
 基础类|高等数学、高等代数、离散数学、矩阵理论
-计算机类|计算机导论、计算机高级语言程序设计（C）、面向对象程序设计（C++）、软件工程概论、计算机结构与组成、数据结构与算法、数据库概论、Visual C++程序设计
+计算机类|计算机导论、计算机高级语言程序设计（C）、面向对象程序设计（C++）、软件工程概论、<br>计算机结构与组成、数据结构与算法、数据库概论、Visual C++程序设计
 图像处理类|遥感概论、遥感图像解译、遥感图像处理、遥感应用模型、数字摄影测量、摄影测量原理、图像处理与分析
 
 ---
