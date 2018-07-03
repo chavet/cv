@@ -45,24 +45,18 @@
 
 ## 武汉狮图空间信息技术有限公司 （ 2014/06 ~ 2018/04 ）
 
-### 震后趋势判定与风险评估系统 
- - 项目描述：通过编写爬虫程序，自动抓取国家地震目录编码信息。针对新发生的地震，自动创建震情报告、自动制作专题图，并将报告推送到Android手机端。针对历史地震，可进行时空分析、断层三维分析、震源机制分析、生成风险评估专题图。
- - 主要技术：采用java在Linux Fedora上搭建web服务系统，采用geoserver发布地图数据，采用Casperjs开发爬虫程序抓取网站上的地震记录，利用python绘制地质专题图，数据库为PostgreSQL - PostGIS。其他技术包括Android、JavaScript、Openlayers、easyUI、nodejs、phantomjs、threejs以及gdal、numpy、scipy、six、pytz、pandas、matplotlib、basemap、netCDF4、psycopg2、pyparsing等python库。
- - 责任描述：在项目中本人既是Leader也是高效的执行者角色，负责与甲方沟通需求，设计项目实施方案，管控项目进度，开发核心模块，参与系统测试，撰写验收文档等。    
+### 负责并参与的项目列表
 
-### 多模式解释应用集成预测系统（MODES） 
- - 项目描述：将多模式解释应用集成预测方法得到的气象预测数据，通过python自动绘图进行可视化展现，并搭建展示网站集成到中国气象局国家气候中心管网。
- - 主要技术：采用PHP语言在Linux Ubuntu上搭建web服务系统，利用python读取并可视化展现气象预测数据，数据库为MySQL。其他技术包括numpy、matplotlib、basemap、scipy、pandas等python库。
-- 责任描述：在项目中本人既是Leader也是高效的执行者角色，负责与甲方沟通需求，设计项目实施方案，管控项目进度，开发核心模块，参与系统测试，撰写验收文档等。
- - 项目网站：[http://cmdp.ncc-cma.net/modes/](http://cmdp.ncc-cma.net/modes/)    
-
-### 武汉市创新基金项目
- - 项目描述：将多模式解释应用集成预测方法得到的气象预测数据，通过python自动绘图进行可视化展现，并搭建展示网站集成到中国气象局国家气候中心管网。
- - 主要技术：采用PHP语言在Linux Ubuntu上搭建web服务系统，利用python读取并可视化展现气象预测数据，数据库为MySQL。其他技术包括numpy、matplotlib、basemap、scipy、pandas等python库。
-- 责任描述：在项目中本人既是Leader也是高效的执行者角色，负责与甲方沟通需求，设计项目实施方案，管控项目进度，开发核心模块，参与系统测试，撰写验收文档等。    
-
-### 其他项目
- - 震后趋势判定与风险评估系统
+编号|项目名称|项目描述|关键技术
+---- | ---- | ---- | ----
+1|基于CPU+GPU高性能计算的环境遥感监测系统|2014/09 ~ 2016/09<br>项目属于2014年度**武汉市科技型中小企业技术创新基金**项目，CPU+GPU系统弥补了传统串行遥感数据处理系统效率上的不足，对环境保护及国家可持续发展有着重大意义。主要包括大气、水、海洋、生态、地质灾害以及固体废弃物环境监测功能。|大规模并行处理技术、海量数据快速存取与管理、快速可视化数据建模、CPU+GPU影像数据自动分割处理、数据分配负载均衡策略。
+2|线性工程地质灾害防治信息平台|2016/07 ~ 2018/01<br>基于开源QGIS平台，对企业线性管道、地质灾害、矿产资源等数据入库管理，搭建信息化管理平台，供企用户对数据进行检索、浏览、分析。高度信息化企业日常工作流程，企业用户日常办公、考勤、审批、外业作业等业务全部通过信息系统进行管理。企业项目合同、经营情况、首付款情况也通过系统进行管理，便于领导掌握企业整体状况。|采用ASP.NET MVC搭建web服务系统，数据库为PostgreSQL - PostGIS，Android版外业App。其他技术包括JavaScript、Openlayers、easyUI、highcharts、QGIS Server、GDAL/OGR……
+3|震后趋势判定与风险评估系统|2015/12 ~ 2018/03<br>通过编写爬虫程序，自动抓取地震目录信息。针对新发生的地震，自动创建震情报告、制作专题图，并将报告推送到Android手机端。针对历史地震，进行时空分析、断层三维分析、震源机制分析、生成风险评估专题图。|采用java在Linux Fedora上搭建web服务系统，采用geoserver发布地图数据，采用Casperjs开发爬虫程序抓取网站上的地震记录，利用python绘制地质专题图，数据库为PostgreSQL - PostGIS。其他技术包括Android、JavaScript、Openlayers、easyUI、nodejs、phantomjs、threejs以及gdal、numpy、scipy、matplotlib、basemap等python库。
+4|联投GIS平台|2015/12 ~ 2017/12<br>用友NC平台负责项目管理，我方开发的GIS平台负责图形化展现及相关空间分析。平台将规划设计、土地使用、征地拆迁、工程投资及建设进度等相关数据及时录入，采用表格与图像相结合方式，实时、全面反映整个新城板块建设进展情况。实现集团建设项目的成本管控、工程招投的监控管理、集团土地储备管理、重大项目的规划设计管理等工作，并全面推进建设管理系统化、精细化、信息化。|采用.NET搭建web服务系统，基于开源QGIS、QT利用C++语言开发C/S客户端编辑图形数据，数据库为Oracle。其他技术包括JavaScript、Openlayers、easyUI、highcharts、QGIS Server……
+5|武汉市大气污染源排放清单管理系统|2015/12 ~ 2016/12<br>系统项目以地理信息技术为支撑，以服务于武汉市环境保护科学研究院的数据采集电子化、数据统计分析实时化、数据展示形象直观为目标的重要信息化手段。|采用java在Linux CentOS上搭建web服务系统，采用geoserver发布地图数据，数据库为MySQL。其他技术包括JavaScript、Openlayers、easyUI等。
+6|多模式解释应用集成预测系统（MODES）|2014/09 ~ 2015/09<br>将多模式解释应用集成预测方法得到的气象预测数据，通过python自动绘图进行可视化展现，并搭建展示网站集成到中国气象局国家气候中心管网。|采用PHP语言在Linux Ubuntu上搭建web服务系统，利用python读取并可视化展现气象预测数据，数据库为MySQL。其他技术包括numpy、matplotlib、basemap、scipy、pandas等python库。<br>项目网址：[http://cmdp.ncc-cma.net/modes/](http://cmdp.ncc-cma.net/modes/)
+7|APOLLO海量影像管理系统|2014/07 ~ 2015/12<br>基于ERDAS Apollo影像管理平台，对新疆二院卫星遥感数据入库，搭建海量影像管理系统，供用户对数据进行检索、浏览、分析、发布、下载等操作。|通过java开发影像解析器，采用.NET搭建web服务系统，数据库为Oracle。其他技术包括JavaScript、Openlayers、ExjJS、GDAL/OGR……
+8|排水信息化管理系统|2014/05 ~ 2015/12<br>基于MapGIS平台，对渝西管网数据入库管理，搭建信息化管理系统，供企业用户对管网数据进行检索、浏览、分析。同时该系统对企业日常工作流程高度信息化，企业用户日常办公、考勤、审批、外业巡检等业务全部通过该信息系统进行管理。|采用ASP.NET MVC搭建web服务系统，数据库为SQL Server，Android版外业巡检App。其他技术包括JavaScript、Openlayers、ExjJS、highcharts、MapGIS Server……
 
 ---
 # 人工智能相关学习经历
