@@ -20,12 +20,12 @@
 
 编号|任职要求|个人情况|匹配度
 ---- | ---- | ---- | ----
-1|硕士或以上学历|中国地质大学（武汉）资源与环境遥感专业工学硕士|100%
+1|硕士或以上学历|211高校硕士|100%
 2|熟悉机器学习的基本方法 ( 降维、分类、回归、排序等等 )|完成coursera机器学习课程，熟悉机器学习基本方法|90%
 3|熟悉深度学习原理和基本模型，熟练使用 Caffe ，Tensorflow 或其他常用深度学习工具，并能够灵活的解决实际问题|完成深度学习微专业课程，课程中利用TensorFlow来解决实际问题|80%
 4|熟悉计算机视觉和图像处理的常用方法 ( 物体检测、跟踪、分割、分类识别等 )|大学课程学习了计算机视觉和图像处理相关课程|90%
-5|有很强的工程能力，精通 C++ 语言以及至少另一种常见编程语言|有很强的工程能力，负责并参与了数十个系统工程项目，精通c++语言，熟悉java、python、javascript等其他常见编程语言|100%
-6|对计算机架构有深刻的认识，能够开发高性能、实时运行的图像处理软件|对计算机架构有基本认识，参与开发多光谱影像三维立方体、遥感影像信息提取、基于CPU+GPU并行计算的影像分割软件等|90%
+5|有很强的工程能力，精通 C++ 语言以及至少另一种常见编程语言|有很强的工程能力，负责并参与了数十个系统工程项目，精通c++语言，熟悉java、python、javascript等常见编程语言|100%
+6|对计算机架构有深刻的认识，能够开发高性能、实时运行的图像处理软件|对计算机架构有基本认识，参与开发多光谱影像三维显示、遥感影像信息提取、基于CPU+GPU并行计算的影像分割软件等|90%
 7|熟悉图像识别领域的常见工具如 OpenCV 等和高性能运算加速工具如 Neon 以及GPGPU 技术如 GLES， CUDA 和OpenCL 等将会优先考虑|了解OpenCV，参与利用CUDA开发基于CPU+GPU并行计算的遥感影像分割软件|70%  
 
 ----
@@ -86,15 +86,16 @@
  - 目标检测算法
 
 ---
-# 技能清单
- - Web开发：PHP/Hack/Node
- - Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
- - 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
- - 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
- - 数据库相关：MySQL/PgSQL/PDO/SQLite
- - 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
- - 单元测试：PHPUnit/SimpleTest/Qunit
- - 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+# 技术栈
+
+类别|技术
+---- | ---- 
+编程语言|C/C++/C#, Java, JavaScript, Python, Matlab, PHP, R
+数据库|PostgreSQL, Oracle, MySQL, SQL Server
+Python工具|TensorFlow, numpy, cv2, matplotlib, basemap ……
+JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS, CasperJS, OpenLayers, Leaflet
+Linux系统|Ubuntu, Fedora, CentOS
+开源软件/库|QGIS, GeoServer, MapServer, Qt, GDAL/OGR, OpenCV, OpenGL
 
 ---
 # 教育经历
