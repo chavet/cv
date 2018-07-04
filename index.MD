@@ -1,16 +1,15 @@
  如需更进一步了解，请访问 **刘辰** 的电子简历：[http://cv.liuqichen.com/](http://cv.liuqichen.com/)
 
-# 联系方式
- - 手机：15927169027
- - Email：chavetliu@gmail.com
- - QQ/微信号：258483280 / conan211b
-
----
 # 个人信息
  - 刘辰 / 男 / 1988-08-05
+ - 手机：15927169027
+ - Email：chavetliu@gmail.com
+ - QQ/微信号：258483280 / conan211b    
+ 
  - 最高学历：硕士研究生
  - 学校及专业：中国地质大学（武汉）/ 信息工程学院 / 资源与环境遥感专业
- - 工作年限：4年
+ - 工作年限：4年    
+ 
  - 期望职位：图像算法工程师，人工智能/机器学习/深度学习/数据挖掘/图像识别等相关职位
  - 期望薪资：月薪15k~20k
  - 期望城市：武汉
@@ -73,12 +72,12 @@ JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS,
 ---
 # 图像算法相关学习经历
 
-## 机器学习
-&emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning)**成绩**：97.6%    
+## [机器学习](https://github.com/chavet/Coursera-Machine-Learning)
+&emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **成绩**：97.6%    
 &emsp;&emsp;课程介绍了机器学习的基础理论和基本方法，包括：监督学习、非监督学习、线性回归、逻辑回归、正则化、神经网络、支持向量机、聚类（K-Means）、降维（PCA）、异常检测（高斯分布）、推荐系统（协同过滤算法）、机器学习系统设计（训练/验证/测试集、偏差/方差、精确度/召回率）、大规模机器学习（SGD、Mini-Batch-GD、在线学习、Map-Reduce）、光学字符识别。    
 &emsp;&emsp;Matlab编程练习包括：线性回归、逻辑回归、多元分类和神经网络、神经网络学习、正则化线性回归和偏差/方差、支持向量机、均值聚类和主成分分析、异常检测和推荐系统。
 
-## 深度学习
+## [深度学习](https://github.com/chavet/Coursera-Deep-Learning)
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)    
 &emsp;&emsp;由 deeplearning.ai 出品，网易引进的正版授权中文版深度学习工程师微专业课程，让你在了解丰富的人工智能应用案例的同时，学会在实践中搭建出最先进的神经网络模型，训练出属于你自己的 AI。
  - Neural Networks and Deep Learning 
