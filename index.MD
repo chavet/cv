@@ -1,4 +1,4 @@
- 如需更进一步了解，请访问 **刘辰** 的电子简历：[http://cv.liuqichen.com/](http://cv.liuqichen.com/)
+ 如需更进一步了解，请访问 **刘辰** 的电子简历：[http://cv.liuqichen.com](http://cv.liuqichen.com)
 
 # 个人信息
  - 刘辰 / 男 / 1988-08-05
@@ -72,22 +72,22 @@ JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS,
 ---
 # 图像算法相关学习经历
 
-## [机器学习](https://github.com/chavet/Coursera-Machine-Learning)
+## [机器学习](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md)
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **成绩**：97.6%    
 
 &emsp;&emsp;课程介绍了机器学习的基础理论和基本方法，包括：监督学习、非监督学习、线性回归、逻辑回归、正则化、神经网络、支持向量机、聚类（K-Means）、降维（PCA）、异常检测（高斯分布）、推荐系统（协同过滤算法）、机器学习系统设计（训练/验证/测试集、偏差/方差、精确度/召回率）、大规模机器学习（SGD、Mini-Batch-GD、在线学习、Map-Reduce）、光学字符识别。    
 
-&emsp;&emsp;**Matlab编程**练习包括：线性回归、逻辑回归、多元分类和神经网络、神经网络学习、正则化线性回归和偏差/方差、支持向量机、均值聚类和主成分分析、异常检测和推荐系统。
+&emsp;&emsp;课程有丰富的**Matlab编程**练习包括：**线性回归**、**逻辑回归**、**多元分类和神经网络**、**神经网络学习**、**正则化线性回归和偏差/方差**、**支持向量机**、**均值聚类和主成分分析**、**异常检测和推荐系统**。
 
-## [深度学习](https://github.com/chavet/Coursera-Deep-Learning)
+## [深度学习](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)    
 
-&emsp;&emsp;由 deeplearning.ai 出品，网易引进的正版授权中文版深度学习工程师微专业课程，让你在了解丰富的人工智能应用案例的同时，学会在实践中搭建出最先进的神经网络模型，训练出属于你自己的 AI。
- - Neural Networks and Deep Learning 
- - Improving Deep Neural Networks
- - Structuring Machine Learning Projects
- - Convolutional Neural Networks
- - Sequence Models
+&emsp;&emsp;课程介绍了深度学习的基础知识和构建神经网络的基本方法，对**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识都有涉及。课程提供很多涵盖**影像分类**、**自动驾驶**、**人脸识别**、**艺术创作**、**自然语言处理**以及**音乐合成**等领域的编程实践项目，通过基于**Python**语言的**TensorFlow**工具，利用深度学习技术解决真实世界的问题。系列课包括五门课程：
+ - 1-神经网络和深度学习 
+ - 2-改善深层神经网络：超参数调试、正则化以及优化
+ - 3-结构化机器学习项目
+ - 4-卷积神经网络
+ - 5-序列模型
  
 ## [大学相关课程](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B)
 
