@@ -35,20 +35,20 @@
 
 &emsp;&emsp;决定转向人工智能方向后，在coursera上自学了斯坦福大学的**机器学习**课程，掌握了机器学习的基本方法，课程成绩97.6%；在网易云课堂中完成了由 deeplearning.ai 出品的**深度学习工程师**微专业课程的学习，掌握了深度学习基本原理和卷积神经网络、循环神经网络等基本模型，在课程中学会利用**TensorFlow**深度学习工具来解决实际问题。  
 
-&emsp;&emsp;本人具备图像算法基础理论知识，有扎实的工程实践能力，参与过CPU+GPU高性能运算项目的研发工作，自主学习能力强，通过自学掌握了机器学习和深度学习基本原理，了解了卷积神经网络和循环神经网络模型，能够使用Tensorflow深度学习工具来解决实际问题。个人能力与[图像算法](https://www.zhipin.com/job_detail/a548c2f40c0009881nFy3Ni9FVQ~.html)职位匹配度较高，希望能有机会加入斗鱼，在团队中学习与提高，为斗鱼的发展贡献自己的力量！  
+&emsp;&emsp;本人具备图像算法基础理论知识，有扎实的工程实践能力，参与过CPU+GPU高性能运算项目的研发工作，自主学习能力强，通过自学掌握了机器学习和深度学习基本原理，了解了卷积神经网络和循环神经网络模型，能够使用Tensorflow深度学习工具来解决实际问题。个人能力与[**图像算法**](https://www.zhipin.com/job_detail/a548c2f40c0009881nFy3Ni9FVQ~.html)职位匹配度较高，希望能有机会加入斗鱼，在团队中学习与提高，为斗鱼的发展贡献自己的力量！  
 
 ---
 # 图像算法相关学习经历
 
-## [机器学习公开课](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md)
-&emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **成绩**：97.6%    
+## 机器学习公开课
+&emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **课程笔记**：[https://github.com/chavet/Coursera-Machine-Learning](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md), **成绩**：97.6%   
 
 &emsp;&emsp;课程介绍了机器学习的基础理论和基本方法，包括：监督学习、非监督学习、线性回归、逻辑回归、正则化、神经网络、支持向量机、聚类（K-Means）、降维（PCA）、异常检测（高斯分布）、推荐系统（协同过滤算法）、机器学习系统设计（训练/验证/测试集、偏差/方差、精确度/召回率）、大规模机器学习（SGD、Mini-Batch-GD、在线学习、Map-Reduce）、光学字符识别。    
 
 &emsp;&emsp;课程有丰富的**Matlab编程**练习包括：线性回归、逻辑回归、多元分类和神经网络、神经网络学习、正则化线性回归和偏差/方差、支持向量机、均值聚类和主成分分析、异常检测和推荐系统。
 
-## [深度学习工程师微专业系列课](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)
-&emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)    
+## 深度学习工程师微专业系列课
+&emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm), **课程笔记**：[https://github.com/chavet/Coursera-Deep-Learning](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)    
 
 &emsp;&emsp;课程介绍了深度学习的基础知识和构建神经网络的基本方法，对**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识都有涉及。课程提供很多涵盖**影像分类**、**自动驾驶**、**人脸识别**、**艺术创作**、**自然语言处理**以及**音乐合成**等领域的编程实践项目，通过基于**Python**语言的**TensorFlow**工具，利用深度学习技术解决真实世界的问题。系列课包括五门课程：
  - 1-神经网络和深度学习 
@@ -105,7 +105,7 @@ JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS,
      - 2012-2013年度优秀研究生干部（校级）
   - 校内职务：
      - 2014届信工学院毕业生委员会主席
-     - 2012/09 - 2013/06 信工学院研究生会主席
+     - 2012/09 - 2013/06 信工学院**研究生会主席**
      - 2011/09 - 2014/06 班长
 
 ## 本科 (2007/09 ~ 2011/06)
@@ -113,7 +113,7 @@ JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS,
   - 校内荣誉：
      - 2008-2009学年度“地大英才”校长奖学金（校级）
      - 2008-2009年度院级优秀学生（院级）
-     - 2008 中国地质大学（武汉）第二届跆拳道比赛62公斤级第二名（校级）
+     - 2008 中国地质大学（武汉）第二届**跆拳道**比赛62公斤级第二名（校级）
      - 2007-2008学年度“地大英才”艰苦奋斗奖学金（校级）
      - 2007-2008年度体育优秀个人（校级）
   - 校内职务：
