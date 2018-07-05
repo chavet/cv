@@ -5,11 +5,9 @@
  - 手机：15927169027
  - Email：chavetliu@gmail.com
  - QQ/微信号：258483280 / conan211b
- 
  - 最高学历：硕士研究生
  - 学校及专业：中国地质大学（武汉）/ 信息工程学院 / 资源与环境遥感专业
  - 工作年限：4年
- 
  - 期望职位：图像算法工程师，人工智能/机器学习/深度学习/数据挖掘/图像识别等相关职位
  - 期望薪资：月薪15k~20k
  - 期望城市：武汉
@@ -40,6 +38,34 @@
 &emsp;&emsp;本人具备图像算法基础理论知识，有扎实的工程实践能力，参与过CPU+GPU高性能运算项目的研发工作，自主学习能力强，通过自学掌握了机器学习和深度学习基本原理，了解了卷积神经网络和循环神经网络模型，能够使用Tensorflow深度学习工具来解决实际问题。个人能力与[图像算法](https://www.zhipin.com/job_detail/a548c2f40c0009881nFy3Ni9FVQ~.html)职位匹配度较高，希望能有机会加入斗鱼，在团队中学习与提高，为斗鱼的发展贡献自己的力量！  
 
 ---
+# 图像算法相关学习经历
+
+## [机器学习公开课](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md)
+&emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **成绩**：97.6%    
+
+&emsp;&emsp;课程介绍了机器学习的基础理论和基本方法，包括：监督学习、非监督学习、线性回归、逻辑回归、正则化、神经网络、支持向量机、聚类（K-Means）、降维（PCA）、异常检测（高斯分布）、推荐系统（协同过滤算法）、机器学习系统设计（训练/验证/测试集、偏差/方差、精确度/召回率）、大规模机器学习（SGD、Mini-Batch-GD、在线学习、Map-Reduce）、光学字符识别。    
+
+&emsp;&emsp;课程有丰富的**Matlab编程**练习包括：线性回归、逻辑回归、多元分类和神经网络、神经网络学习、正则化线性回归和偏差/方差、支持向量机、均值聚类和主成分分析、异常检测和推荐系统。
+
+## [深度学习工程师微专业系列课](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)
+&emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)    
+
+&emsp;&emsp;课程介绍了深度学习的基础知识和构建神经网络的基本方法，对**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识都有涉及。课程提供很多涵盖**影像分类**、**自动驾驶**、**人脸识别**、**艺术创作**、**自然语言处理**以及**音乐合成**等领域的编程实践项目，通过基于**Python**语言的**TensorFlow**工具，利用深度学习技术解决真实世界的问题。系列课包括五门课程：
+ - 1-神经网络和深度学习 
+ - 2-改善深层神经网络：超参数调试、正则化以及优化
+ - 3-结构化机器学习项目
+ - 4-卷积神经网络
+ - 5-序列模型
+ 
+## [大学相关课程](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B)
+
+类别|课程|加权平均分
+---- | ---- | ---- 
+基础类|高等数学、高等代数、离散数学、矩阵理论|84.8%
+计算机类|计算机导论、计算机高级语言程序设计（C）、面向对象程序设计（C++）、软件工程概论、<br>计算机结构与组成、数据结构与算法、数据库概论、Windows组件技术及编程、Visual C++程序设计|89.9%
+图像处理类|遥感概论、遥感图像解译、遥感图像处理、遥感应用模型、高分辨率卫星遥感、数字摄影测量、摄影测量原理、图像处理与分析|89%
+
+---
 # 工作经历
 
 ## 武汉狮图空间信息技术有限公司 （ 2014/06 ~ 2018/04 ）
@@ -68,34 +94,6 @@ Linux系统|Ubuntu, Fedora, CentOS
 Python工具|**TensorFlow**, numpy, cv2, matplotlib, basemap ……
 JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS, CasperJS, OpenLayers, Leaflet
 开源软件/库|QGIS, GeoServer, MapServer, Qt, GDAL/OGR, CxImage, **OpenCV**, OpenGL
-
----
-# 图像算法相关学习经历
-
-## [机器学习](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md)
-&emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **成绩**：97.6%    
-
-&emsp;&emsp;课程介绍了机器学习的基础理论和基本方法，包括：监督学习、非监督学习、线性回归、逻辑回归、正则化、神经网络、支持向量机、聚类（K-Means）、降维（PCA）、异常检测（高斯分布）、推荐系统（协同过滤算法）、机器学习系统设计（训练/验证/测试集、偏差/方差、精确度/召回率）、大规模机器学习（SGD、Mini-Batch-GD、在线学习、Map-Reduce）、光学字符识别。    
-
-&emsp;&emsp;课程有丰富的**Matlab编程**练习包括：**线性回归**、**逻辑回归**、**多元分类和神经网络**、**神经网络学习**、**正则化线性回归和偏差/方差**、**支持向量机**、**均值聚类和主成分分析**、**异常检测和推荐系统**。
-
-## [深度学习](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)
-&emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)    
-
-&emsp;&emsp;课程介绍了深度学习的基础知识和构建神经网络的基本方法，对**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识都有涉及。课程提供很多涵盖**影像分类**、**自动驾驶**、**人脸识别**、**艺术创作**、**自然语言处理**以及**音乐合成**等领域的编程实践项目，通过基于**Python**语言的**TensorFlow**工具，利用深度学习技术解决真实世界的问题。系列课包括五门课程：
- - 1-神经网络和深度学习 
- - 2-改善深层神经网络：超参数调试、正则化以及优化
- - 3-结构化机器学习项目
- - 4-卷积神经网络
- - 5-序列模型
- 
-## [大学相关课程](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B)
-
-类别|课程
----- | ---- 
-基础类|高等数学、高等代数、离散数学、矩阵理论
-计算机类|计算机导论、计算机高级语言程序设计（C）、面向对象程序设计（C++）、软件工程概论、<br>计算机结构与组成、数据结构与算法、数据库概论、Visual C++程序设计
-图像处理类|遥感概论、遥感图像解译、遥感图像处理、遥感应用模型、数字摄影测量、摄影测量原理、图像处理与分析
 
 ---
 # 教育经历
