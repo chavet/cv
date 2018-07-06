@@ -1,6 +1,6 @@
  如需更进一步了解，请访问 **刘辰** 的电子简历：[http://cv.liuqichen.com](http://cv.liuqichen.com)
 
-# 个人信息
+### 个人信息
  - 刘辰 / 男 / 1988-08-05
  - 手机：15927169027
  - Email：chavetliu@gmail.com
@@ -13,7 +13,7 @@
  - 期望城市：武汉
 
 ---
-# 斗鱼直播[图像算法](https://www.zhipin.com/job_detail/a548c2f40c0009881nFy3Ni9FVQ~.html)职位匹配度
+### 斗鱼直播[图像算法](https://www.zhipin.com/job_detail/a548c2f40c0009881nFy3Ni9FVQ~.html)职位匹配度
 
 编号|任职要求|个人情况|匹配度
 ---- | ---- | ---- | ----
@@ -26,7 +26,7 @@
 7|熟悉图像识别领域的常见工具如 OpenCV 等和高性能运算加速工具如 Neon 以及GPGPU 技术如 GLES， CUDA 和OpenCL 等将会优先考虑|了解OpenCV，参与利用CUDA开发基于CPU+GPU并行计算的遥感影像分割软件|70%  
 
 ----
-# 个人简介
+### 个人简介
 &emsp;&emsp;本科期间成绩优秀，热爱软件编程，大多数计算机相关课程成绩专业第一。寒暑假跟随老师做项目，学习了**图像处理**常用方法，**编程能力**也得到了显著的提高。最终以专业第四的成绩**保送**本校研究生。  
 
 &emsp;&emsp;研究生方向为**遥感影像信息提取**，在科研项目中掌握了**影像分割**、**特征选择**、**分类识别**等技术，对计算机视觉和图像处理方法有了更深入的了解。能够独立撰写科技论文，共发表1篇**EI检索**、1篇**中文核心**以及2篇会议论文。  
@@ -38,16 +38,16 @@
 &emsp;&emsp;本人具备图像算法基础理论知识，有扎实的工程实践能力，参与过CPU+GPU高性能运算项目的研发工作，自主学习能力强，通过自学掌握了机器学习和深度学习基本原理，了解了卷积神经网络和循环神经网络模型，能够使用Tensorflow深度学习工具来解决实际问题。个人能力与[**图像算法**](https://www.zhipin.com/job_detail/a548c2f40c0009881nFy3Ni9FVQ~.html)职位匹配度较高，希望能有机会加入斗鱼，在团队中学习与提高，为斗鱼的发展贡献自己的力量！  
 
 ---
-# 图像算法相关学习经历
+### 图像算法相关学习经历
 
-## 机器学习公开课
+#### 机器学习公开课
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **课程笔记**：[https://github.com/chavet/Coursera-Machine-Learning](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md), **成绩**：97.6%   
 
 &emsp;&emsp;课程介绍了机器学习的基础理论和基本方法，包括：监督学习、非监督学习、线性回归、逻辑回归、正则化、神经网络、支持向量机、聚类（K-Means）、降维（PCA）、异常检测（高斯分布）、推荐系统（协同过滤算法）、机器学习系统设计（训练/验证/测试集、偏差/方差、精确度/召回率）、大规模机器学习（SGD、Mini-Batch-GD、在线学习、Map-Reduce）、光学字符识别。    
 
 &emsp;&emsp;课程有丰富的**Matlab编程**练习包括：线性回归、逻辑回归、多元分类和神经网络、神经网络学习、正则化线性回归和偏差/方差、支持向量机、均值聚类和主成分分析、异常检测和推荐系统。
 
-## 深度学习工程师微专业系列课
+#### 深度学习工程师微专业系列课
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm), **课程笔记**：[https://github.com/chavet/Coursera-Deep-Learning](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)    
 
 &emsp;&emsp;课程介绍了深度学习的基础知识和构建神经网络的基本方法，对**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识都有涉及。课程提供很多涵盖**影像分类**、**自动驾驶**、**人脸识别**、**艺术创作**、**自然语言处理**以及**音乐合成**等领域的编程实践项目，通过基于**Python**语言的**TensorFlow**工具，利用深度学习技术解决真实世界的问题。系列课包括五门课程：
@@ -57,7 +57,7 @@
  - 4-卷积神经网络
  - 5-序列模型
  
-## [大学相关课程](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B)
+#### [大学相关课程](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B)
 
 类别|课程|加权平均分
 ---- | ---- | ---- 
@@ -66,11 +66,11 @@
 图像处理类|遥感概论、遥感图像解译、遥感图像处理、遥感应用模型、高分辨率卫星遥感、数字摄影测量、摄影测量原理、图像处理与分析|89%
 
 ---
-# 工作经历
+### 工作经历
 
-## 武汉狮图空间信息技术有限公司 （ 2014/06 ~ 2018/04 ）
+#### 武汉狮图空间信息技术有限公司 （ 2014/06 ~ 2018/04 ）
 
-### 负责并参与的项目列表
+#### 负责并参与的项目列表
 
 编号|项目名称|项目描述|关键技术
 ---- | ---- | ---- | ----
@@ -84,7 +84,7 @@
 8|排水信息化管理系统|执行期：2014/05 ~ 2015/12<br>项目对企业日常工作流程高度信息化，基于MapGIS平台，搭建信息化管理系统，提供管网数据检索、浏览、分析，以及日常办公、考勤、审批、外业巡检等业务。|开发语言：C#、JavaScript、Java, 开发工具：VS2010, 框架：ASP.NET MVC, 数据库：SQL Server<br>相关技术：Openlayers、ExjJS、Highcharts、MapGIS Server、Android
 
 ---
-# 技术栈
+### 技术栈
 
 类别|技术
 ---- | ---- 
@@ -96,9 +96,9 @@ JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS,
 开源软件/库|QGIS, GeoServer, MapServer, Qt, GDAL/OGR, CxImage, **OpenCV**, OpenGL
 
 ---
-# 教育经历
+### 教育经历
 
-## 研究生 (2011/09 ~ 2014/06)
+#### 研究生 (2011/09 ~ 2014/06)
   - 中国地质大学（武汉） / 信息工程学院 / 资源与环境遥感专业
   - 校内荣誉：
      - 2013-2014年度泰华奖学金（校级）
@@ -108,7 +108,7 @@ JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS,
      - 2012/09 - 2013/06 信工学院**研究生会主席**
      - 2011/09 - 2014/06 班长
 
-## 本科 (2007/09 ~ 2011/06)
+#### 本科 (2007/09 ~ 2011/06)
   - 中国地质大学（武汉） / 信息工程学院 / 遥感科学与技术专业
   - 校内荣誉：
      - 2008-2009学年度“地大英才”校长奖学金（校级）
@@ -119,22 +119,22 @@ JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS,
   - 校内职务：
      - 2007/09 - 2011/06 班级体育委员 
 
-## 证书情况
+#### 证书情况
   - 2011/03，[全国计算机等级考试三级](attachment/attachment.MD#%E5%85%A8%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AD%89%E7%BA%A7%E8%80%83%E8%AF%95%E4%B8%89%E7%BA%A7)
   - 2010/12，[全国信息化工程师——GIS应用水平](attachment/attachment.MD#%E5%85%A8%E5%9B%BD%E4%BF%A1%E6%81%AF%E5%8C%96%E5%B7%A5%E7%A8%8B%E5%B8%88)
   - 2009/12，[大学英语六级](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7)
   - 2009/11，[初级程序员](attachment/attachment.MD#%E5%88%9D%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98)
   - 2009/09，[大学英语四级](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7)
 
-## 论文及专利
+#### 论文及专利
   - 【[EI检索](attachment/attachment.MD#ei%E6%A3%80%E7%B4%A2)】Chen Q, Liu X, Liu C, et al. Impact analysis of different spatial resolution DEM on object-oriented landslide extraction from high resolution remote sensing images[C]// International Conference on Natural Computation. IEEE, 2014:940-945.
   - 【[中文核心](attachment/attachment.MD#%E4%B8%AD%E6%96%87%E6%A0%B8%E5%BF%83)】刘辰, 刘修国, 陈启浩,等. 面向对象滑坡信息提取中DEM空间分辨率影响分析[J]. 遥感技术与应用, 2014, 29(4):631-638.
   - 【[专利](attachment/attachment.MD#%E4%B8%93%E5%88%A9)】一种基于SSC的多尺度分割参数优化方法, CN104200482A[P]. 2014.
 
-## 荣誉奖项
+#### 荣誉奖项
   - 【[省级奖项](attachment/attachment.MD#%E6%8C%91%E6%88%98%E6%9D%AF%E7%9C%81%E8%B5%9B%E9%87%91%E5%A5%96%E4%BC%98%E8%83%9C%E5%9B%A2%E9%98%9F)】2014年湖北省大学生创业大赛创业实践挑战赛中获得**金奖**，同时也获得“**优胜团队**”称号
   - 【[部级奖项](attachment/attachment.MD#%E6%8C%91%E6%88%98%E6%9D%AF%E5%9B%BD%E8%B5%9B%E9%93%9C%E5%A5%96)】2014年全国大学生创业大赛创业实践挑战赛中获得**铜奖**
 
 ---      
-# 致谢
+### 致谢
 &emsp;&emsp;感谢您花时间阅读我的简历，期待能有机会和您共事!
