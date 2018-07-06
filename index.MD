@@ -43,14 +43,14 @@
 #### 机器学习公开课
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **课程笔记**：[https://github.com/chavet/Coursera-Machine-Learning](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md), **成绩**：97.6%   
 
-&emsp;&emsp;课程介绍了机器学习的基础理论和基本方法，包括：监督学习、非监督学习、线性回归、逻辑回归、正则化、神经网络、支持向量机、聚类（K-Means）、降维（PCA）、异常检测（高斯分布）、推荐系统（协同过滤算法）、机器学习系统设计（训练/验证/测试集、偏差/方差、精确度/召回率）、大规模机器学习（SGD、Mini-Batch-GD、在线学习、Map-Reduce）、光学字符识别。    
+&emsp;&emsp;在课程的学习中掌握了机器学习的基础理论和基本方法，包括：监督学习、非监督学习、线性回归、逻辑回归、正则化、神经网络、支持向量机、聚类（K-Means）、降维（PCA）、异常检测（高斯分布）、推荐系统（协同过滤算法）、机器学习系统设计（训练/验证/测试集、偏差/方差、精确度/召回率）、大规模机器学习（SGD、Mini-Batch-GD、在线学习、Map-Reduce）、光学字符识别。    
 
-&emsp;&emsp;课程有丰富的**Matlab编程**练习包括：线性回归、逻辑回归、多元分类和神经网络、神经网络学习、正则化线性回归和偏差/方差、支持向量机、均值聚类和主成分分析、异常检测和推荐系统。
+&emsp;&emsp;完成了丰富的**Matlab编程**练习，包括：线性回归、逻辑回归、多元分类和神经网络、神经网络学习、正则化线性回归和偏差/方差、支持向量机、均值聚类和主成分分析、异常检测和推荐系统。
 
 #### 深度学习工程师微专业系列课
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm), **课程笔记**：[https://github.com/chavet/Coursera-Deep-Learning](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)    
 
-&emsp;&emsp;课程介绍了深度学习的基础知识和构建神经网络的基本方法，对**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识都有涉及。课程提供很多涵盖**影像分类**、**自动驾驶**、**人脸识别**、**艺术创作**、**自然语言处理**以及**音乐合成**等领域的编程实践项目，通过基于**Python**语言的**TensorFlow**工具，利用深度学习技术解决真实世界的问题。系列课包括五门课程：
+&emsp;&emsp;在课程的学习中掌握了深度学习的基础知识和构建神经网络的基本方法，以及**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识。课程提供了涵盖**影像分类**、**自动驾驶**、**人脸识别**、**艺术创作**、**自然语言处理**以及**音乐合成**等领域的编程实践项目，学会了如何利用深度学习技术通过基于**Python**语言的**TensorFlow**工具解决真实世界问题的方法。系列课包括五门课程：
  - 1-神经网络和深度学习 
  - 2-改善深层神经网络：超参数调试、正则化以及优化
  - 3-结构化机器学习项目
@@ -132,7 +132,7 @@ JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS,
   - 【[专利](attachment/attachment.MD#%E4%B8%93%E5%88%A9)】一种基于SSC的多尺度分割参数优化方法, CN104200482A[P]. 2014.
 
 #### 荣誉奖项
-  - 【[省级奖项](attachment/attachment.MD#%E6%8C%91%E6%88%98%E6%9D%AF%E7%9C%81%E8%B5%9B%E9%87%91%E5%A5%96%E4%BC%98%E8%83%9C%E5%9B%A2%E9%98%9F)】2014年湖北省大学生创业大赛创业实践挑战赛中获得**金奖**，同时也获得“**优胜团队**”称号
+  - 【[省级奖项](attachment/attachment.MD#%E6%8C%91%E6%88%98%E6%9D%AF%E7%9C%81%E8%B5%9B%E9%87%91%E5%A5%96%E4%BC%98%E8%83%9C%E5%9B%A2%E9%98%9F)】2014年湖北省大学生创业大赛创业实践挑战赛中获得**金奖**，及“**优胜团队**”称号
   - 【[部级奖项](attachment/attachment.MD#%E6%8C%91%E6%88%98%E6%9D%AF%E5%9B%BD%E8%B5%9B%E9%93%9C%E5%A5%96)】2014年全国大学生创业大赛创业实践挑战赛中获得**铜奖**
 
 ---      
