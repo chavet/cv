@@ -18,9 +18,9 @@
 编号|任职要求|个人情况|匹配度
 ---- | ---- | ---- | ----
 1|硕士或以上学历|211高校硕士|100%
-2|熟悉机器学习的基本方法 ( 降维、分类、回归、排序等等 )|完成coursera机器学习课程，熟悉机器学习基本方法|90%
-3|熟悉深度学习原理和基本模型，熟练使用 Caffe ，Tensorflow 或其他常用深度学习工具，并能够灵活的解决实际问题|完成深度学习微专业课程，课程中利用TensorFlow来解决实际问题|80%
-4|熟悉计算机视觉和图像处理的常用方法 ( 物体检测、跟踪、分割、分类识别等 )|大学课程学习了计算机视觉和图像处理相关课程|90%
+2|熟悉机器学习的基本方法 ( 降维、分类、回归、排序等等 )|自学了机器学习课程，熟悉了机器学习基本方法|90%
+3|熟悉深度学习原理和基本模型，熟练使用 Caffe ，Tensorflow 或其他常用深度学习工具，并能够灵活的解决实际问题|自学了深度学习微专业课程，能够利用TensorFlow来解决实际问题|80%
+4|熟悉计算机视觉和图像处理的常用方法 ( 物体检测、跟踪、分割、分类识别等 )|大学学习了计算机视觉和图像处理相关课程|90%
 5|有很强的工程能力，精通 C++ 语言以及至少另一种常见编程语言|有很强的工程能力，负责并参与了数十个系统工程项目，精通c++语言，熟悉java、python、javascript等常见编程语言|100%
 6|对计算机架构有深刻的认识，能够开发高性能、实时运行的图像处理软件|对计算机架构有基本认识，参与开发多光谱影像三维显示、遥感影像信息提取、基于CPU+GPU并行计算的影像分割等图像处理软件|90%
 7|熟悉图像识别领域的常见工具如 OpenCV 等和高性能运算加速工具如 Neon 以及GPGPU 技术如 GLES， CUDA 和OpenCL 等将会优先考虑|了解OpenCV，参与利用CUDA开发基于CPU+GPU并行计算的遥感影像分割软件|70%  
@@ -76,12 +76,12 @@
 ---- | ---- | ---- | ----
 1|基于CPU+GPU高性能计算的环境遥感监测系统|执行期：2014/09 ~ 2016/09<br>项目属于2014年**武汉市创新基金**项目，研发面向环境遥感监测业务的专题产品运行支撑系统。|大规模并行处理技术、海量数据快速存取与管理、快速可视化数据建模、CPU+GPU影像数据自动分割处理、数据分配负载均衡策略。
 2|线性工程地质灾害防治信息平台|执行期：2016/07 ~ 2018/01<br>项目为企业搭建信息化管理平台，管理企业线性工程项目、预警预报、动态监测、危险评估、安全评价等日常业务。|开发语言：C++/C#、JavaScript, 开发工具：VS2013, 框架：ASP.NET MVC, 数据库：PostgreSQL<br>相关技术：jQuery EasyUI、Openlayers、Highcharts、QGIS Server、GDAL/OGR、HTML5、Android、iOS
-3|震后趋势判定与风险评估系统|执行期：2015/12 ~ 2018/03<br>项目通过爬虫自动抓取地震目录信息，监测到新地震后自动创建震情报告，并推送到Android手机端。针对历史地震，进行时空分析、断层三维分析、震源机制分析、生成风险评估专题图等。|开发语言：Java、Python、JavaScript, 开发工具：MyEclipse, 数据库：PostgreSQL、MySQL、Oracle, 操作系统：Linux Fedora<br>相关技术：jQuery EasyUI、Openlayers、Highcharts、GeoServer、three.js、Node.js、PhantomJS、CasperJS、HTML5、Android以及cv2、matplotlib、basemap等Python库。
+3|震后趋势判定与风险评估系统|执行期：2015/12 ~ 2018/03<br>项目通过爬虫自动抓取地震目录信息，监测到新地震后自动创建震情报告，并推送到Android手机端。针对历史地震，进行时空分析、断层三维分析、震源机制分析、生成风险评估专题图等。|开发语言：Java、Python、JavaScript, 开发工具：MyEclipse, 数据库：PostgreSQL、MySQL、Oracle, 操作系统：Linux Fedora<br>相关技术：jQuery EasyUI、Openlayers、Highcharts、GeoServer、three.js、Node.js、PhantomJS、CasperJS、HTML5、Android以及cv2、matplotlib、basemap等Python库
 4|联投GIS平台|执行期：2015/12 ~ 2017/12<br>项目联合用友公司为联投集团新城板块建设开发GIS图形化信息平台，实现规划设计、土地使用、征地拆迁、工程投资及建设进度等相关业务。|开发语言：C++/C#、JavaScript, 开发工具：VS2010, 数据库：Oracle<br>相关技术：QGIS、QGIS Server、QT、jQWidgets、Highcharts
-5|武汉市大气污染源排放清单管理系统|执行期：2015/12 ~ 2016/12<br>项目搭建平台系统采集企业生产相关数据，利用模型计算大气污染排放量，通过图表和GIS展示大气污染情况，监控武汉大气环境状况。|开发语言：Java、JavaScript, 开发工具：MyEclipse, 数据库：MySQL, 操作系统：Linux CentOS<br>相关技术：jQWidgets、Openlayers、Highcharts、GeoServer。
-6|多模式解释应用集成预测系统（MODES）|执行期：2014/09 ~ 2015/09<br>项目将多模式解释应用集成预测方法得到的气象预测数据，通过python自动绘图进行可视化展现，并集成到中国气象局国家气候中心官网。|开发语言：Python、PHP, 数据库：MySQL, 操作系统：Linux Ubuntu<br>相关技术：cv2、matplotlib、basemap等Python库。<br>项目网址：[http://cmdp.ncc-cma.net/modes/](http://cmdp.ncc-cma.net/modes/)
-7|APOLLO海量影像管理系统|执行期：2014/07 ~ 2015/12<br>项目基于ERDAS Apollo影像管理平台，对测绘单位海量遥感数据入库，搭建Web系统，提供数据检索、浏览、分析、发布、下载等服务。|开发语言：java、C#、JavaScript, 开发工具：Eclipse、VS2010, 数据库：Oracle<br>相关技术：Openlayers、ExjJS、GDAL/OGR。
-8|排水信息化管理系统|执行期：2014/05 ~ 2015/12<br>项目对企业日常工作流程高度信息化，基于MapGIS平台，搭建信息化管理系统，提供管网数据检索、浏览、分析，以及日常办公、考勤、审批、外业巡检等业务。|开发语言：C#、JavaScript、Java, 开发工具：VS2010, 框架：ASP.NET MVC, 数据库：SQL Server<br>相关技术：Openlayers、ExjJS、Highcharts、MapGIS Server、Android。
+5|武汉市大气污染源排放清单管理系统|执行期：2015/12 ~ 2016/12<br>项目搭建平台系统采集企业生产相关数据，利用模型计算大气污染排放量，通过图表和GIS展示大气污染情况，监控武汉大气环境状况。|开发语言：Java、JavaScript, 开发工具：MyEclipse, 数据库：MySQL, 操作系统：Linux CentOS<br>相关技术：jQWidgets、Openlayers、Highcharts、GeoServer
+6|多模式解释应用集成预测系统（MODES）|执行期：2014/09 ~ 2015/09<br>项目将多模式解释应用集成预测方法得到的气象预测数据，通过python自动绘图进行可视化展现，并集成到中国气象局国家气候中心官网。|开发语言：Python、PHP, 数据库：MySQL, 操作系统：Linux Ubuntu<br>相关技术：cv2、matplotlib、basemap等Python库<br>项目网址：[http://cmdp.ncc-cma.net/modes/](http://cmdp.ncc-cma.net/modes/)
+7|APOLLO海量影像管理系统|执行期：2014/07 ~ 2015/12<br>项目基于ERDAS Apollo影像管理平台，对测绘单位海量遥感数据入库，搭建Web系统，提供数据检索、浏览、分析、发布、下载等服务。|开发语言：java、C#、JavaScript, 开发工具：Eclipse、VS2010, 数据库：Oracle<br>相关技术：Openlayers、ExjJS、GDAL/OGR
+8|排水信息化管理系统|执行期：2014/05 ~ 2015/12<br>项目对企业日常工作流程高度信息化，基于MapGIS平台，搭建信息化管理系统，提供管网数据检索、浏览、分析，以及日常办公、考勤、审批、外业巡检等业务。|开发语言：C#、JavaScript、Java, 开发工具：VS2010, 框架：ASP.NET MVC, 数据库：SQL Server<br>相关技术：Openlayers、ExjJS、Highcharts、MapGIS Server、Android
 
 ---
 # 技术栈
