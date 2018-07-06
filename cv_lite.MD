@@ -22,7 +22,7 @@
 
 - #### 深度学习工程师微专业系列课
   &emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm), **课程笔记**：[https://github.com/chavet/Coursera-Deep-Learning](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)    
-  &emsp;&emsp;在课程的学习中掌握了深度学习的基础知识和构建神经网络的基本方法，以及**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识。课程提供了涵盖**影像分类**、**自动驾驶**、**人脸识别**、**艺术创作**、**自然语言处理**以及**音乐合成**等领域的编程实践项目，学会如何利用深度学习技术通过基于**Python**语言的**TensorFlow**工具解决真实世界问题的方法。
+  &emsp;&emsp;在课程的学习中掌握了深度学习的基础知识和构建神经网络的基本方法，以及**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识。课程提供了涵盖**影像分类**、**自动驾驶**、**人脸识别**、**艺术创作**、**自然语言处理**以及**音乐合成**等领域的编程实践项目，学会了如何利用深度学习技术通过基于**Python**语言的**TensorFlow**工具解决真实世界问题的方法。
  
 ---
 ### 工作经历
@@ -55,20 +55,13 @@ JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS,
 - 硕士：2011/09 ~ 2014/06，中国地质大学（武汉） / 信息工程学院 / 资源与环境遥感专业
 - 本科：2007/09 ~ 2011/06，中国地质大学（武汉） / 信息工程学院 / 遥感科学与技术专业
 
-#### 证书情况
-  - 2011/03，[全国计算机等级考试三级](attachment/attachment.MD#%E5%85%A8%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AD%89%E7%BA%A7%E8%80%83%E8%AF%95%E4%B8%89%E7%BA%A7)
-  - 2010/12，[全国信息化工程师——GIS应用水平](attachment/attachment.MD#%E5%85%A8%E5%9B%BD%E4%BF%A1%E6%81%AF%E5%8C%96%E5%B7%A5%E7%A8%8B%E5%B8%88)
-  - 2009/12，[大学英语六级](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7)
-  - 2009/11，[初级程序员](attachment/attachment.MD#%E5%88%9D%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98)
-  - 2009/09，[大学英语四级](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7)
-
 #### 论文及专利
-  - 【[EI检索](attachment/attachment.MD#ei%E6%A3%80%E7%B4%A2)】Chen Q, Liu X, Liu C, et al. Impact analysis of different spatial resolution DEM on object-oriented landslide extraction from high resolution remote sensing images[C]// International Conference on Natural Computation. IEEE, 2014:940-945.
-  - 【[中文核心](attachment/attachment.MD#%E4%B8%AD%E6%96%87%E6%A0%B8%E5%BF%83)】刘辰, 刘修国, 陈启浩,等. 面向对象滑坡信息提取中DEM空间分辨率影响分析[J]. 遥感技术与应用, 2014, 29(4):631-638.
-  - 【[专利](attachment/attachment.MD#%E4%B8%93%E5%88%A9)】一种基于SSC的多尺度分割参数优化方法, CN104200482A[P]. 2014.
+  - 【[EI检索](attachment/attachment.MD#ei%E6%A3%80%E7%B4%A2)】Impact analysis of different spatial resolution DEM on object-oriented landslide extraction from high resolution remote sensing images.
+  - 【[中文核心](attachment/attachment.MD#%E4%B8%AD%E6%96%87%E6%A0%B8%E5%BF%83)】面向对象滑坡信息提取中DEM空间分辨率影响分析.
+  - 【[专利](attachment/attachment.MD#%E4%B8%93%E5%88%A9)】一种基于SSC的多尺度分割参数优化方法.
 
 #### 荣誉奖项
-  - 【[省级奖项](attachment/attachment.MD#%E6%8C%91%E6%88%98%E6%9D%AF%E7%9C%81%E8%B5%9B%E9%87%91%E5%A5%96%E4%BC%98%E8%83%9C%E5%9B%A2%E9%98%9F)】2014年湖北省大学生创业大赛创业实践挑战赛中获得**金奖**，同时也获得“**优胜团队**”称号
+  - 【[省级奖项](attachment/attachment.MD#%E6%8C%91%E6%88%98%E6%9D%AF%E7%9C%81%E8%B5%9B%E9%87%91%E5%A5%96%E4%BC%98%E8%83%9C%E5%9B%A2%E9%98%9F)】2014年湖北省大学生创业大赛创业实践挑战赛中获得**金奖**，及“**优胜团队**”称号
   - 【[部级奖项](attachment/attachment.MD#%E6%8C%91%E6%88%98%E6%9D%AF%E5%9B%BD%E8%B5%9B%E9%93%9C%E5%A5%96)】2014年全国大学生创业大赛创业实践挑战赛中获得**铜奖**
 
 ----
