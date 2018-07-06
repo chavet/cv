@@ -16,16 +16,13 @@
 ### 图像算法相关学习经历
 
 - #### 机器学习公开课
-&emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **课程笔记**：[https://github.com/chavet/Coursera-Machine-Learning](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md), **成绩**：97.6%   
-
-&emsp;&emsp;在课程的学习中掌握了机器学习的基础理论和基本方法，包括：监督学习、非监督学习、线性回归、逻辑回归、正则化、神经网络、支持向量机、聚类（K-Means）、降维（PCA）、异常检测（高斯分布）、推荐系统（协同过滤算法）、机器学习系统设计（训练/验证/测试集、偏差/方差、精确度/召回率）、大规模机器学习（SGD、Mini-Batch-GD、在线学习、Map-Reduce）、光学字符识别。    
-
-&emsp;&emsp;完成了丰富的**Matlab编程**练习，包括：线性回归、逻辑回归、多元分类和神经网络、神经网络学习、正则化线性回归和偏差/方差、支持向量机、均值聚类和主成分分析、异常检测和推荐系统。
+  &emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **课程笔记**：[https://github.com/chavet/Coursera-Machine-Learning](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md), **成绩**：97.6%   
+  &emsp;&emsp;在课程的学习中掌握了机器学习的基础理论和基本方法，包括：监督学习、非监督学习、线性回归、逻辑回归、正则化、神经网络、支持向量机、聚类（K-Means）、降维（PCA）、异常检测（高斯分布）、推荐系统（协同过滤算法）、机器学习系统设计（训练/验证/测试集、偏差/方差、精确度/召回率）、大规模机器学习（SGD、Mini-Batch-GD、在线学习、Map-Reduce）、光学字符识别。    
+  &emsp;&emsp;完成了丰富的**Matlab编程**练习，包括：线性回归、逻辑回归、多元分类和神经网络、神经网络学习、正则化线性回归和偏差/方差、支持向量机、均值聚类和主成分分析、异常检测和推荐系统。
 
 - #### 深度学习工程师微专业系列课
-&emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm), **课程笔记**：[https://github.com/chavet/Coursera-Deep-Learning](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)    
-
-&emsp;&emsp;在课程的学习中掌握了深度学习的基础知识和构建神经网络的基本方法，以及**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识。课程提供了涵盖**影像分类**、**自动驾驶**、**人脸识别**、**艺术创作**、**自然语言处理**以及**音乐合成**等领域的编程实践项目，学会如何利用深度学习技术通过基于**Python**语言的**TensorFlow**工具解决真实世界问题的方法。
+  &emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm), **课程笔记**：[https://github.com/chavet/Coursera-Deep-Learning](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)    
+  &emsp;&emsp;在课程的学习中掌握了深度学习的基础知识和构建神经网络的基本方法，以及**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识。课程提供了涵盖**影像分类**、**自动驾驶**、**人脸识别**、**艺术创作**、**自然语言处理**以及**音乐合成**等领域的编程实践项目，学会如何利用深度学习技术通过基于**Python**语言的**TensorFlow**工具解决真实世界问题的方法。
  
 ---
 ### 工作经历
@@ -76,4 +73,4 @@ JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS,
 
 ----
 ### 自我评价
-&emsp;&emsp;本人具备图像算法基础理论知识，有扎实的工程实践能力，参与过CPU+GPU高性能运算项目的研发工作，自主学习能力强，通过自学掌握了机器学习和深度学习基本原理，了解了卷积神经网络和循环神经网络模型，能够使用Tensorflow深度学习工具来解决实际问题。个人能力与[**图像算法**](https://www.zhipin.com/job_detail/a548c2f40c0009881nFy3Ni9FVQ~.html)职位匹配度较高，希望能有机会加入斗鱼，在团队中学习与提高，为斗鱼的发展贡献自己的力量！ 
+&emsp;&emsp;本人具备图像算法基础理论知识，有扎实的工程实践能力，参与过**CPU+GPU高性能运算**项目的研发工作，**自主学习**能力强，通过自学掌握了**机器学习**和**深度学习**基本原理，了解了卷积神经网络和循环神经网络模型，能够使用**Tensorflow**深度学习工具来解决实际问题。个人能力与[**图像算法**](https://www.zhipin.com/job_detail/a548c2f40c0009881nFy3Ni9FVQ~.html)职位匹配度较高，希望能有机会加入斗鱼，在团队中学习与提高，为斗鱼的发展贡献自己的力量！ 
