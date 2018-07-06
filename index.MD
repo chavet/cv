@@ -27,11 +27,11 @@
 
 ----
 # 个人简介
-&emsp;&emsp;本科期间成绩优秀，热爱程序开发，大多数计算机相关课程成绩专业第一。寒暑假跟随老师做项目，学习了**图像处理**常用方法，**编程能力**也得到了显著的提高。最终以专业第四的成绩**保送**本校研究生。  
+&emsp;&emsp;本科期间成绩优秀，热爱软件编程，大多数计算机相关课程成绩专业第一。寒暑假跟随老师做项目，学习了**图像处理**常用方法，**编程能力**也得到了显著的提高。最终以专业第四的成绩**保送**本校研究生。  
 
-&emsp;&emsp;研究生方向为**遥感影像信息提取**，在科研项目中用到了**影像分割**、**特征选择**、**分类识别**等技术，对计算机视觉和图像处理方法有了更深入的了解。能够独立撰写科技论文，发表1篇**EI检索**、1篇**中文核心**以及2篇会议论文。  
+&emsp;&emsp;研究生方向为**遥感影像信息提取**，在科研项目中掌握了**影像分割**、**特征选择**、**分类识别**等技术，对计算机视觉和图像处理方法有了更深入的了解。能够独立撰写科技论文，共发表1篇**EI检索**、1篇**中文核心**以及2篇会议论文。  
 
-&emsp;&emsp;毕业后与同学一起创业，从事GIS及遥感相关的软件研发工作。在公司主要负责项目管理、关键技术攻关及核心代码的研发工作。系统工程能力、英文文献阅读能力、开源平台的开发能力、个人综合能力均得到了很好的锻炼。负责《基于CPU+GPU高性能计算的环境遥感监测系统》创新基金项目，熟悉了利用**CUDA**开发**GPU**高性能运算加速软件的原理与方法，并带领团队申请了相关专利。  
+&emsp;&emsp;毕业后与同学一起创业，从事GIS及遥感相关的软件研发工作。在公司主要负责**项目管理**、**关键技术攻关**及**核心代码研发**工作。系统工程能力、英文文献阅读能力、开源平台研发能力、个人综合能力均得到了很好的锻炼。负责《基于CPU+GPU高性能计算的环境遥感监测系统》创新基金项目，熟悉了利用**CUDA**开发**GPU**高性能运算加速软件的原理与方法，并带领团队申请了相关专利。  
 
 &emsp;&emsp;决定转向人工智能方向后，在coursera上自学了斯坦福大学的**机器学习**课程，掌握了机器学习的基本方法，课程成绩97.6%；在网易云课堂中完成了由 deeplearning.ai 出品的**深度学习工程师**微专业课程的学习，掌握了深度学习基本原理和卷积神经网络、循环神经网络等基本模型，在课程中学会利用**TensorFlow**深度学习工具来解决实际问题。  
 
@@ -61,8 +61,8 @@
 
 类别|课程|加权平均分
 ---- | ---- | ---- 
-基础类|高等数学、高等代数、离散数学、矩阵理论|84.8%
-计算机类|计算机导论、计算机高级语言程序设计（C）、面向对象程序设计（C++）、软件工程概论、<br>计算机结构与组成、数据结构与算法、数据库概论、Windows组件技术及编程、Visual C++程序设计|89.9%
+基础类|高等数学、高等代数、离散数学、矩阵理论|85%
+计算机类|计算机导论、计算机高级语言程序设计（C）、面向对象程序设计（C++）、软件工程概论、<br>计算机结构与组成、数据结构与算法、数据库概论、Windows组件技术及编程、Visual C++程序设计|90%
 图像处理类|遥感概论、遥感图像解译、遥感图像处理、遥感应用模型、高分辨率卫星遥感、数字摄影测量、摄影测量原理、图像处理与分析|89%
 
 ---
@@ -75,11 +75,11 @@
 编号|项目名称|项目描述|关键技术
 ---- | ---- | ---- | ----
 1|基于CPU+GPU高性能计算的环境遥感监测系统|执行期：2014/09 ~ 2016/09<br>项目属于2014年**武汉市创新基金**项目，研发面向环境遥感监测业务的专题产品运行支撑系统。|大规模并行处理技术、海量数据快速存取与管理、快速可视化数据建模、CPU+GPU影像数据自动分割处理、数据分配负载均衡策略。
-2|线性工程地质灾害防治信息平台|执行期：2016/07 ~ 2018/01<br>项目为企业搭建信息化管理平台，管理企业线性工程项目、预警预报、动态监测、危险评估、安全评价等日常业务。|开发语言：C++/C#、JavaScript, 开发工具：VS2013, 框架：ASP.NET MVC, 数据库：PostgreSQL - PostGIS<br>相关技术：jQuery EasyUI、Openlayers、Highcharts、QGIS Server、GDAL/OGR、HTML5、Android、iOS
-3|震后趋势判定与风险评估系统|执行期：2015/12 ~ 2018/03<br>项目通过爬虫自动抓取地震目录信息，监测到新地震后自动创建震情报告，并推送到Android手机端。针对历史地震，进行时空分析、断层三维分析、震源机制分析、生成风险评估专题图等。|开发语言：Java、Python、JavaScript, 开发工具：MyEclipse, 数据库：PostgreSQL – PostGIS、MySQL、Oracle, 操作系统：Linux Fedora<br>相关技术：jQuery EasyUI、Openlayers、Highcharts、GeoServer、three.js、Node.js、PhantomJS、CasperJS、HTML5、Leaflet、Android以及numpy、cv2、matplotlib、basemap等Python库。
+2|线性工程地质灾害防治信息平台|执行期：2016/07 ~ 2018/01<br>项目为企业搭建信息化管理平台，管理企业线性工程项目、预警预报、动态监测、危险评估、安全评价等日常业务。|开发语言：C++/C#、JavaScript, 开发工具：VS2013, 框架：ASP.NET MVC, 数据库：PostgreSQL<br>相关技术：jQuery EasyUI、Openlayers、Highcharts、QGIS Server、GDAL/OGR、HTML5、Android、iOS
+3|震后趋势判定与风险评估系统|执行期：2015/12 ~ 2018/03<br>项目通过爬虫自动抓取地震目录信息，监测到新地震后自动创建震情报告，并推送到Android手机端。针对历史地震，进行时空分析、断层三维分析、震源机制分析、生成风险评估专题图等。|开发语言：Java、Python、JavaScript, 开发工具：MyEclipse, 数据库：PostgreSQL、MySQL、Oracle, 操作系统：Linux Fedora<br>相关技术：jQuery EasyUI、Openlayers、Highcharts、GeoServer、three.js、Node.js、PhantomJS、CasperJS、HTML5、Android以及cv2、matplotlib、basemap等Python库。
 4|联投GIS平台|执行期：2015/12 ~ 2017/12<br>项目联合用友公司为联投集团新城板块建设开发GIS图形化信息平台，实现规划设计、土地使用、征地拆迁、工程投资及建设进度等相关业务。|开发语言：C++/C#、JavaScript, 开发工具：VS2010, 数据库：Oracle<br>相关技术：QGIS、QGIS Server、QT、jQWidgets、Highcharts
 5|武汉市大气污染源排放清单管理系统|执行期：2015/12 ~ 2016/12<br>项目搭建平台系统采集企业生产相关数据，利用模型计算大气污染排放量，通过图表和GIS展示大气污染情况，监控武汉大气环境状况。|开发语言：Java、JavaScript, 开发工具：MyEclipse, 数据库：MySQL, 操作系统：Linux CentOS<br>相关技术：jQWidgets、Openlayers、Highcharts、GeoServer。
-6|多模式解释应用集成预测系统（MODES）|执行期：2014/09 ~ 2015/09<br>项目将多模式解释应用集成预测方法得到的气象预测数据，通过python自动绘图进行可视化展现，并集成到中国气象局国家气候中心官网。|开发语言：Python、PHP, 数据库：MySQL, 操作系统：Linux Ubuntu<br>相关技术：numpy、cv2、matplotlib、basemap等Python库。<br>项目网址：[http://cmdp.ncc-cma.net/modes/](http://cmdp.ncc-cma.net/modes/)
+6|多模式解释应用集成预测系统（MODES）|执行期：2014/09 ~ 2015/09<br>项目将多模式解释应用集成预测方法得到的气象预测数据，通过python自动绘图进行可视化展现，并集成到中国气象局国家气候中心官网。|开发语言：Python、PHP, 数据库：MySQL, 操作系统：Linux Ubuntu<br>相关技术：cv2、matplotlib、basemap等Python库。<br>项目网址：[http://cmdp.ncc-cma.net/modes/](http://cmdp.ncc-cma.net/modes/)
 7|APOLLO海量影像管理系统|执行期：2014/07 ~ 2015/12<br>项目基于ERDAS Apollo影像管理平台，对测绘单位海量遥感数据入库，搭建Web系统，提供数据检索、浏览、分析、发布、下载等服务。|开发语言：java、C#、JavaScript, 开发工具：Eclipse、VS2010, 数据库：Oracle<br>相关技术：Openlayers、ExjJS、GDAL/OGR。
 8|排水信息化管理系统|执行期：2014/05 ~ 2015/12<br>项目对企业日常工作流程高度信息化，基于MapGIS平台，搭建信息化管理系统，提供管网数据检索、浏览、分析，以及日常办公、考勤、审批、外业巡检等业务。|开发语言：C#、JavaScript、Java, 开发工具：VS2010, 框架：ASP.NET MVC, 数据库：SQL Server<br>相关技术：Openlayers、ExjJS、Highcharts、MapGIS Server、Android。
 
