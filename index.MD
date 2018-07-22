@@ -8,7 +8,7 @@
  - 最高学历：硕士研究生
  - 学校及专业：中国地质大学（武汉）/ 信息工程学院 / 资源与环境遥感专业
  - 工作年限：4年
- - 期望职位：深度学习研发工程师，人工智能/计算机视觉相关职位
+ - 期望职位：[深度学习研发工程师](https://www.zhipin.com/job_detail/8e3a7a4524e773851n163t68GVc~.html)，人工智能/计算机视觉相关职位
  - 期望薪资：月薪10k~20k
  - 期望城市：武汉
 
@@ -17,11 +17,11 @@
 
 编号|任职要求|个人情况|匹配度
 ---- | ---- | ---- | ----
-1|熟悉C++和Python编程。|精通C++语言，熟悉Python、Java、Javascript等常见编程语言|100%
-2|熟悉基于深度学习的计算机视觉主要算法，特别是物体检测和物体识别等。|大学专业与计算机视觉相关，自学了深度学习微专业，实践了YOLO模型识别车辆、Inception模型识别人脸等|90%
-3|熟悉Caffe、TensorFlow、MxNet等主流深度学习框架之一。|熟悉TensorFlow深度学习框架，利用该框架完成了车辆识别、人脸识别和神经风格迁移等任务|90%
-4|具备实际项目中模型训练和部署经验。|具备软件项目部署经验，能够部署基于GPU加速的深度学习环境，通过GPU加速模型训练过程|80%
-5|有较强的求知欲和学习能力。|对于新事物有较强的求知欲，自主学习能力强|100%
+1|熟悉C++和Python编程。|精通C++语言，熟悉Python、Java、Javascript等常见编程语言。|100%
+2|熟悉基于深度学习的计算机视觉主要算法，特别是物体检测和物体识别等。|大学专业与计算机视觉相关，自学了深度学习微专业，实践了YOLO模型识别车辆、Inception模型识别人脸等项目。|90%
+3|熟悉Caffe、TensorFlow、MxNet等主流深度学习框架之一。|熟悉TensorFlow深度学习框架，利用该框架完成了车辆识别、人脸识别和神经风格迁移等实践项目。|90%
+4|具备实际项目中模型训练和部署经验。|具备软件项目部署经验，能够部署基于GPU加速的深度学习环境，通过GPU加速深度残差网络模型的训练过程。|80%
+5|有较强的求知欲和学习能力。|对于新事物有较强的求知欲，自主学习能力强。|100%
 
 ----
 ### 个人简介
@@ -33,10 +33,10 @@
 
 &emsp;&emsp;决定转向人工智能方向后，在coursera上自学了斯坦福大学的**机器学习**课程，掌握了机器学习的基本方法，课程成绩97.6%；在网易云课堂中完成了由 deeplearning.ai 出品的**深度学习工程师**微专业课程的学习，掌握了深度学习基本原理和卷积神经网络、循环神经网络等基本模型，在课程中学会利用**TensorFlow**深度学习工具来解决实际问题。  
 
-&emsp;&emsp;本人具备图像算法基础理论知识，有扎实的工程实践能力，参与过CPU+GPU高性能运算项目的研发工作，自主学习能力强，通过自学掌握了机器学习和深度学习基本原理，了解了卷积神经网络和循环神经网络模型，能够使用Tensorflow深度学习工具来解决实际问题。个人能力与[深度学习研发工程师](https://www.zhipin.com/job_detail/8e3a7a4524e773851n163t68GVc~.html)职位匹配度较高，希望能有机会加入库柏特，在团队中学习与提高，为库柏特的发展贡献自己的力量！  
+&emsp;&emsp;本人具备深度学习和计算机视觉相关的基础理论知识，有扎实的工程实践能力，参与过CPU+GPU高性能运算项目的研发工作，自主学习能力强，通过自学掌握了机器学习和深度学习基本原理，了解了卷积神经网络和循环神经网络模型，能够使用Tensorflow深度学习工具来解决实际问题。个人能力与[深度学习研发工程师](https://www.zhipin.com/job_detail/8e3a7a4524e773851n163t68GVc~.html)职位匹配度较高，对机器人行业有着强烈的兴趣，希望能有机会加入库柏特，在团队中学习与提高，为库柏特的发展贡献自己的力量！  
 
 ---
-### 图像算法相关学习经历
+### 人工智能相关学习经历
 
 #### 机器学习公开课
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **课程笔记**：[https://github.com/chavet/Coursera-Machine-Learning](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md), **成绩**：97.6%   
@@ -48,13 +48,18 @@
 #### 深度学习工程师微专业系列课
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm), **课程笔记**：[https://github.com/chavet/Coursera-Deep-Learning](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)    
 
-&emsp;&emsp;在课程的学习中掌握了深度学习的基础知识和构建神经网络的基本方法，以及**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识。课程提供了涵盖**影像分类**、**自动驾驶**、**人脸识别**、**艺术创作**、**自然语言处理**以及**音乐合成**等领域的编程实践项目，学会了如何利用深度学习技术通过基于**Python**语言的**TensorFlow**工具解决真实世界问题的方法。系列课包括五门课程：
- - 1-神经网络和深度学习 
- - 2-改善深层神经网络：超参数调试、正则化以及优化
- - 3-结构化机器学习项目
- - 4-卷积神经网络
- - 5-序列模型
- 
+&emsp;&emsp;在课程的学习中掌握了深度学习的基础知识和构建神经网络的基本方法，以及**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识。学会了利用**TensorFlow**深度学习工具及Keras框架解决真实世界问题的方法，完成了基于深度学习的计算机视觉相关的编程实践项目。
+
+#### 计算机视觉实践项目
+项目名称|描述
+---- | ---- 
+手势数字识别|● 构建并训练50层的残差网络模型，利用ResNet-50进行手势数字识别。
+车辆识别|● 利用YOLO v2算法进行车辆检测，识别目标类别，绘制目标边界。
+人脸识别|● 利用[Szegedy](https://arxiv.org/abs/1409.4842)等人提出的Inception模型，将人脸图片转化成编码向量，比较两张图片编码向量的距离，判断是否为同一个人。
+神经风格迁移|● 利用VGG-19模型实现图像神经风格迁移，为图像创作不同风格的艺术作品。
+
+
+
 #### [大学相关课程](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B)
 
 类别|课程|加权平均分
@@ -67,31 +72,20 @@
 ### 工作经历
 
 #### 武汉狮图空间信息技术有限公司 （ 2014/06 ~ 2018/04 ）
+&emsp;&emsp;在公司担任**产品经理**职位，除了设计产品方案外，还兼顾**项目管理**、**关键技术攻关**以及**核心代码研发**等工作。负责并参与了大量软件系统[项目](https://github.liuqichen.com/cv/attachment/projects/projects.html#%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8)，系统工程能力、英文文献阅读能力、开源平台研发能力、个人综合能力均得到了很好的锻炼与提高。
 
-#### 负责并参与的项目列表
-
-编号|项目名称|项目描述
----- | ---- | ---- 
-1|基于CPU+GPU高性能计算的环境遥感监测系统|● 执行期：2014/09 ~ 2016/09<br>● 描述：项目属于2014年**武汉市创新基金**项目，研发面向环境遥感监测业务的专题产品运行支撑系统。<br>● 关键技术：大规模并行处理技术、海量数据快速存取与管理、快速可视化数据建模、CPU+GPU影像数据自动分割处理、数据分配负载均衡策略。
-2|线性工程地质灾害防治信息平台|● 执行期：2016/07 ~ 2018/01<br>● 描述：项目为企业搭建信息化管理平台，管理企业线性工程项目、预警预报、动态监测、危险评估、安全评价等日常业务。<br>● 开发语言：C++/C#、JavaScript, 开发工具：VS2013, 框架：ASP.NET MVC, 数据库：PostgreSQL<br>● 相关技术：jQuery EasyUI、Openlayers、Highcharts、QGIS Server、GDAL/OGR、HTML5、Android、iOS
-3|震后趋势判定与风险评估系统|● 执行期：2015/12 ~ 2018/03<br>● 描述：项目通过爬虫自动抓取地震目录信息，监测到新地震后自动创建震情报告，并推送到Android手机端。针对历史地震，进行时空分析、断层三维分析、震源机制分析、生成风险评估专题图等。<br>● 开发语言：Java、Python、JavaScript, 开发工具：MyEclipse, 数据库：PostgreSQL、MySQL、Oracle, 操作系统：Linux Fedora<br>● 相关技术：jQuery EasyUI、Openlayers、Highcharts、GeoServer、three.js、Node.js、PhantomJS、CasperJS、HTML5、Android以及cv2、matplotlib、basemap等Python库
-4|联投GIS平台|● 执行期：2015/12 ~ 2017/12<br>● 描述：项目联合用友公司为联投集团新城板块建设开发GIS图形化信息平台，实现规划设计、土地使用、征地拆迁、工程投资及建设进度等相关业务。<br>● 开发语言：C++/C#、JavaScript, 开发工具：VS2010, 数据库：Oracle<br>● 相关技术：QGIS、QGIS Server、QT、jQWidgets、Highcharts
-5|武汉市大气污染源排放清单管理系统|● 执行期：2015/12 ~ 2016/12<br>● 描述：项目搭建平台系统采集企业生产相关数据，利用模型计算大气污染排放量，通过图表和GIS展示大气污染情况，监控武汉大气环境状况。<br>● 开发语言：Java、JavaScript, 开发工具：MyEclipse, 数据库：MySQL, 操作系统：Linux CentOS<br>● 相关技术：jQWidgets、Openlayers、Highcharts、GeoServer
-6|多模式解释应用集成预测系统（MODES）|● 执行期：2014/09 ~ 2015/09<br>● 描述：项目将多模式解释应用集成预测方法得到的气象预测数据，通过python自动绘图进行可视化展现，并集成到中国气象局国家气候中心官网。<br>● 开发语言：Python、PHP, 数据库：MySQL, 操作系统：Linux Ubuntu<br>● 相关技术：cv2、matplotlib、basemap等Python库<br>● 项目网址：[http://cmdp.ncc-cma.net/modes/](http://cmdp.ncc-cma.net/modes/)
-7|APOLLO海量影像管理系统|● 执行期：2014/07 ~ 2015/12<br>● 描述：项目基于ERDAS Apollo影像管理平台，对测绘单位海量遥感数据入库，搭建Web系统，提供数据检索、浏览、分析、发布、下载等服务。<br>● 开发语言：java、C#、JavaScript, 开发工具：Eclipse、VS2010, 数据库：Oracle<br>● 相关技术：Openlayers、ExjJS、GDAL/OGR
-8|排水信息化管理系统|● 执行期：2014/05 ~ 2015/12<br>● 描述：项目对企业日常工作流程高度信息化，基于MapGIS平台，搭建信息化管理系统，提供管网数据检索、浏览、分析，以及日常办公、考勤、审批、外业巡检等业务。<br>● 开发语言：C#、JavaScript、Java, 开发工具：VS2010, 框架：ASP.NET MVC, 数据库：SQL Server<br>● 相关技术：Openlayers、ExjJS、Highcharts、MapGIS Server、Android
 
 ---
 ### 技术栈
 
 类别|技术
 ---- | ---- 
-编程语言|**C/C++/C#**, Java, JavaScript, Python, Matlab, PHP, R
+编程语言|**C/C++/C#**, **Python**, Java, JavaScript, Matlab, PHP, R
 数据库|PostgreSQL, Oracle, MySQL, SQL Server
 Linux系统|Ubuntu, Fedora, CentOS
 Python工具|**TensorFlow**, numpy, cv2, matplotlib, basemap ……
 JavaScript工具|jQuery EasyUI, ExjJS, HighCharts, three.js, Node.js, PhantomJS, CasperJS, OpenLayers, Leaflet
-开源软件/库|QGIS, GeoServer, MapServer, Qt, GDAL/OGR, CxImage, **OpenCV**, OpenGL
+开源软件/库|QGIS, GeoServer, MapServer, Qt, GDAL/OGR, CxImage, OpenCV, OpenGL
 
 ---
 ### 教育经历
