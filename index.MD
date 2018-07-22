@@ -38,6 +38,15 @@
 ---
 ### 人工智能相关学习经历
 
+#### ➤计算机视觉实践项目
+
+项目名称|描述
+---- | ---- 
+手势数字识别|● 构建并训练50层的残差网络模型，利用ResNet-50进行手势数字识别。
+车辆识别|● 利用YOLO v2算法进行车辆检测，识别目标类别，绘制目标边界。
+人脸识别|● 利用[Szegedy](https://arxiv.org/abs/1409.4842)等人提出的Inception模型，将人脸图片转化成编码向量，比较两张图片编码向量的距离，判断是否为同一个人。
+神经风格迁移|● 利用VGG-19模型实现图像神经风格迁移，为图像创作不同风格的艺术作品。
+
 #### ➤机器学习公开课
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **课程笔记**：[https://github.com/chavet/Coursera-Machine-Learning](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md), **成绩**：97.6%   
 
@@ -49,17 +58,6 @@
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm), **课程笔记**：[https://github.com/chavet/Coursera-Deep-Learning](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)    
 
 &emsp;&emsp;在课程的学习中掌握了深度学习的基础知识和构建神经网络的基本方法，以及**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识。学会了利用**TensorFlow**深度学习工具及Keras框架解决真实世界问题的方法，完成了基于深度学习的计算机视觉相关的编程实践项目。
-
-#### ➤计算机视觉实践项目
-
-项目名称|描述
----- | ---- 
-手势数字识别|● 构建并训练50层的残差网络模型，利用ResNet-50进行手势数字识别。
-车辆识别|● 利用YOLO v2算法进行车辆检测，识别目标类别，绘制目标边界。
-人脸识别|● 利用[Szegedy](https://arxiv.org/abs/1409.4842)等人提出的Inception模型，将人脸图片转化成编码向量，比较两张图片编码向量的距离，判断是否为同一个人。
-神经风格迁移|● 利用VGG-19模型实现图像神经风格迁移，为图像创作不同风格的艺术作品。
-
-
 
 #### ➤[大学相关课程](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B)
 
@@ -73,7 +71,7 @@
 ### 工作经历
 
 #### 武汉狮图空间信息技术有限公司 （ 2014/06 ~ 2018/04 ）
-&emsp;&emsp;在公司担任**产品经理**职位，除了设计产品方案外，还兼顾**项目管理**、**关键技术攻关**以及**核心代码研发**等工作。负责并参与了大量软件系统[项目](https://github.liuqichen.com/cv/attachment/projects/projects.html#%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8)，系统工程能力、英文文献阅读能力、开源平台研发能力、个人综合能力均得到了很好的锻炼与提高。
+&emsp;&emsp;在公司担任**产品经理**职位，除了设计产品方案外，还兼顾**项目管理**、**关键技术攻关**以及**核心代码研发**等工作。负责并参与了大量[**软件系统项目**](https://github.liuqichen.com/cv/attachment/projects/projects.html#%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8)，系统工程能力、英文文献阅读能力、开源平台研发能力、个人综合能力均得到了很好的锻炼与提高。
 
 ---
 ### 技术栈
