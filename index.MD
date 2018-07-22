@@ -38,19 +38,19 @@
 ---
 ### 人工智能相关学习经历
 
-#### 机器学习公开课
+#### ➤机器学习公开课
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **课程笔记**：[https://github.com/chavet/Coursera-Machine-Learning](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md), **成绩**：97.6%   
 
 &emsp;&emsp;在课程的学习中掌握了机器学习的基础理论和基本方法，包括：监督学习、非监督学习、线性回归、逻辑回归、正则化、神经网络、支持向量机、聚类（K-Means）、降维（PCA）、异常检测（高斯分布）、推荐系统（协同过滤算法）、机器学习系统设计（训练/验证/测试集、偏差/方差、精确度/召回率）、大规模机器学习（SGD、Mini-Batch-GD、在线学习、Map-Reduce）、光学字符识别。    
 
 &emsp;&emsp;完成了丰富的**Matlab编程**练习，包括：线性回归、逻辑回归、多元分类和神经网络、神经网络学习、正则化线性回归和偏差/方差、支持向量机、均值聚类和主成分分析、异常检测和推荐系统。
 
-#### 深度学习工程师微专业系列课
+#### ➤深度学习工程师微专业系列课
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：deeplearning.ai, **课程平台**：网易云课堂-[微专业](http://mooc.study.163.com/smartSpec/detail/1001319001.htm), **课程笔记**：[https://github.com/chavet/Coursera-Deep-Learning](https://github.com/chavet/Coursera-Deep-Learning/blob/master/README.md)    
 
 &emsp;&emsp;在课程的学习中掌握了深度学习的基础知识和构建神经网络的基本方法，以及**卷积神经网络**（**CNN**）、**循环神经网络**（**RNN**）、**长短期记忆**（**LSTM**）等深度学习常用网络结构、工具和知识。学会了利用**TensorFlow**深度学习工具及Keras框架解决真实世界问题的方法，完成了基于深度学习的计算机视觉相关的编程实践项目。
 
-#### 计算机视觉实践项目
+#### ➤计算机视觉实践项目
 
 项目名称|描述
 ---- | ---- 
@@ -61,7 +61,7 @@
 
 
 
-#### [大学相关课程](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B)
+#### ➤[大学相关课程](attachment/attachment.MD#%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B)
 
 类别|课程|加权平均分
 ---- | ---- | ---- 
