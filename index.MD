@@ -42,10 +42,10 @@
 
 项目名称|描述
 ---- | ---- 
-手势数字识别|● 构建并训练50层的残差网络模型，利用ResNet-50进行手势数字识别。
-车辆识别|● 利用YOLO v2算法进行车辆检测，识别目标类别，绘制目标边界。
-人脸识别|● 利用[Szegedy](https://arxiv.org/abs/1409.4842)等人提出的Inception模型，将人脸图片转化成编码向量，比较两张图片编码向量的距离，判断是否为同一个人。
-神经风格迁移|● 利用VGG-19模型实现图像神经风格迁移，为图像创作不同风格的艺术作品。
+[手势数字识别](https://github.com/chavet/Coursera-Deep-Learning/blob/master/My%20Assignments/4-Convolutional%20Neural%20Networks/Week2/ResNets)|● 构建并训练50层的残差网络模型，利用ResNet-50进行手势数字识别。
+[车辆识别](https://github.com/chavet/Coursera-Deep-Learning/blob/master/My%20Assignments/4-Convolutional%20Neural%20Networks/Week3/Car%20detection%20for%20Autonomous%20Driving)|● 利用YOLO v2算法进行车辆检测，识别目标类别，绘制目标边界。
+[人脸识别](https://github.com/chavet/Coursera-Deep-Learning/blob/master/My%20Assignments/4-Convolutional%20Neural%20Networks/Week4/Face%20Recognition)|● 利用[Szegedy](https://arxiv.org/abs/1409.4842)等人提出的Inception模型，将人脸图片转化成编码向量，比较两张图片编码向量的距离，判断是否为同一个人。
+[神经风格迁移](https://github.com/chavet/Coursera-Deep-Learning/blob/master/My%20Assignments/4-Convolutional%20Neural%20Networks/Week4/Neural%20Style%20Transfer)|● 利用VGG-19模型实现图像神经风格迁移，为图像创作不同风格的艺术作品。
 
 #### ➤机器学习公开课
 &emsp;&emsp;**主讲**：Andrew Ng, **出品**：Stanford University, **课程平台**：[Coursera](https://www.coursera.org/learn/machine-learning), **课程笔记**：[https://github.com/chavet/Coursera-Machine-Learning](https://github.com/chavet/Coursera-Machine-Learning/blob/master/README.md), **成绩**：97.6%   
